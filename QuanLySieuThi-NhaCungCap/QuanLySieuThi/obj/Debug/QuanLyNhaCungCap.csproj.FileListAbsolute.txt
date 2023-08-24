@@ -1,0 +1,15 @@
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyNhaCungCap.csproj.AssemblyReference.cache
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyNhaCungCap.csproj.SuggestedBindingRedirects.cache
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyNhaCungCap.csproj.ResolveComReference.cache
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.Dangnhap.resources
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.main2.resources
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.quanly.nhacungcap.resources
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.frmTaiKhoan.resources
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyNhaCungCap.csproj.GenerateResource.cache
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyNhaCungCap.csproj.CoreCompileInputs.cache
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+E:\WinFormKtra2\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
